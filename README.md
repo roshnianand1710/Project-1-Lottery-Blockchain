@@ -1,5 +1,5 @@
-# Project-1-Lottery-Blockchain
-A project in blockchain to choose a lottery winner.
+# Lottery-Blockchain-Smart-Contract
+A blockchain smart contract to choose a lottery winner.
 3 entities:
 -Manager (deploys the smart contract on the blockchain)
 -Players (Need to pay a participation fee to participate)
